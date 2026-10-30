@@ -1,0 +1,61 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+ChessEngine
+
+# CMake build directories
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+CMakeUserPresets.json
+
+# IDEs and Editors
+.visualstudio/
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj
+*.filters
+
+# Vim Swap Files
+*~
+*.swp
+*.swo
+.netrwhist
+
+# OS-generated files
+.DS_Store
+Thumbs.db
